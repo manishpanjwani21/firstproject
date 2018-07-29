@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World from Git Repo"
+echo "Hello World"
